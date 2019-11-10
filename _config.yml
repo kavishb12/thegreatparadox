@@ -7,7 +7,7 @@ description: # this means to ignore newlines until "baseurl:"
   I will be writing about everything from technology, privacy, mental health, monolouges about life to fitness.
      
 baseurl: "/thegreatparadox" # the subpath of your site, e.g. /blog
-url: "theycallmekavish.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "www.theycallmekavish.com" # the base hostname & protocol for your site, e.g. http://example.com
 # Social Profiles
 twitter_username:   SBootstrap
 github_username:    BlackrockDigital
