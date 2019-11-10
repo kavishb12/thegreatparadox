@@ -25,13 +25,13 @@ baseurl: "/thegreatparadox" # the subpath of your site, e.g. /blog
 url: "theycallmekavish.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-email: bhathijk@tcd.ie
+
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-clean-blog
+theme: minima
 plugins:
   - jekyll-feed
-exclude: [vendor]
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
