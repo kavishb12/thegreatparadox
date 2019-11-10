@@ -21,6 +21,8 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 markdown:           kramdown
 paginate:           5
 paginate_path:      "/posts/page:num/"
+theme: jekyll-theme-clean-blog
+exclude: [vendor]
 plugins:
   - jekyll-feed
   - jekyll-paginate
