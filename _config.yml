@@ -16,9 +16,11 @@
 title: Inside the mind of thegreatparadox
 email: bhathijk@tcd.ie
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The purpose of the existance of this blog is to serve as my personal extempore diary entry. This is a one-stop place for your daily fix of honesty. 
+  The tone of the blog will be simiilar to how Jack kerouac (fame of On the road) writes. As the title of this blog suggests, this blog is a glimpse of 
+  how my grey cells react to everyday life. Yes you guessed this right, this blog is my therapy outlet and only I am allowed to have the teddy in the circle. 
+  I will be writing about everything from technology, privacy, mental health, monolouges about life to fitness.
+     
 baseurl: "/thegreatparadox" # the subpath of your site, e.g. /blog
 url: "theycallmekavish.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
